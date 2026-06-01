@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am currently working with n8n and AI-based automations, and I am seeking meaningful collaboration.<br>I am looking for a committed companion — someone with whom I can share ideas, grow together, and develop strong technical skills.<br><br>I am also deeply interested in cybersecurity, and I often participate in CTF challenges just for the thrill and learning they bring.<br><br>With an eager heart and a curious mind, I wish to explore the vast world of technology and tools, shaping our journey into something powerful and inspiring.
+👋 Hi, I'm Thilak
+
+🎓 CSE Student
+💻 Learning Java, Cybersecurity & Web Development
+🎨 Poster Designer at ZenX Creation
+🚀 Building projects and exploring open source
+📚 Always curious to learn new technologies
+🎯 Turning ideas into reality, one commit at a time
+
+☕ Coffee + Code + Anime = Perfect Day 🍜
+🎬 Currently watching anime while debugging code 😆
+
+📫 Let's connect and build something awesome!
 
 
 ## 🌐 Socials:
