@@ -1,23 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Thilak
-
-🎓 CSE Student
-
-💻 Learning Java, Cybersecurity & Web Development
-
-🎨 Poster Designer at ZenX Creation
-
-🚀 Building projects and exploring open source
-
-📚 Always curious to learn new technologies
-
-🎯 Turning ideas into reality, one commit at a time
-
-☕ Coffee + Code + Anime = Perfect Day 🍜
-
-🎬 Currently watching anime while debugging code 😆
-
-📫 Let's connect and build something awesome!
+Hi, I'm Thilak. I am a CSE student. I love playing with code and I try to build my own home server. I'm crazy about watching anime, and I like to explore new things.
 
 
 ## 🌐 Socials:
