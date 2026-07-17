@@ -1,8 +1,8 @@
 ## 💫 About Me:
 👋 Hi, I'm Thilak
-#Hi, I'm Thilak. I am a CSE student.
-#I love playing with code and I try to build my own home server. 
-#I'm crazy about watching anime, and I like to explore new things.
+Hi, I'm Thilak. I am a CSE student.
+I love playing with code and I try to build my own home server. 
+I'm crazy about watching anime, and I like to explore new things.
 
 
 ## 🌐 Socials:
