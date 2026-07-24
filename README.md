@@ -1,9 +1,25 @@
-## 💫 About Me:
-👋 Hi, I'm Thilak.x
-I am a CSE student.
-I love playing with code and I try to build my own home server. 
-I'm crazy about watching anime, and I like to explore new things.
-And i like to build a Things that make life easier
+# 💫 About Me
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
+### 👋 Hi, I'm Thilak!
+
+I am a Computer Science and Engineering (CSE) student who loves playing with code and exploring new technologies. I have a strong passion for continuous learning and building practical things that make daily life easier.
+
+---
+
+### 🛠️ What I'm Up To
+- 🖥️ **Home Server Enthusiast:** Currently building and configuring my own home server setup.
+- ⚙️ **Life Automation:** Developing tools and scripts to simplify and automate daily routines.
+- 📚 **Continuous Learning:** Eager to explore new frameworks, DevOps tools, and system administration.
+
+---
+
+### 🍿 Beyond the Code
+- 🎏 **Anime Fanatic:** Crazy about watching anime and exploring rich animated storytelling.
+- 🔍 **Explorer:** Always looking out for new ideas, tech stacks, and hobbies to dive into.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thilakeswaran-b-50b431280/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thilakesb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thilakesb@gmail.com) 
