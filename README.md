@@ -3,7 +3,7 @@
 I am a CSE student.
 I love playing with code and I try to build my own home server. 
 I'm crazy about watching anime, and I like to explore new things.
-
+And i like to build a Things that make life easier
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thilakeswaran-b-50b431280/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thilakesb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thilakesb@gmail.com) 
