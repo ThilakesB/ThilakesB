@@ -1,8 +1,6 @@
 # 💫 About Me
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+
 
 ### 👋 Hi, I'm Thilak!
 
